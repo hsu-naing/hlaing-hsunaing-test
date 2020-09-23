@@ -5,7 +5,8 @@ Date Record
 8.6.2020
 
 sllnaing
-
+Beans 
+Pizza
 8.6.2020
 
 Hlaing
@@ -18,4 +19,9 @@ hello github
 
 54321
 
+Done my changes
+=======
+
 Final copy 
+
+Apple 
